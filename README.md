@@ -9,4 +9,4 @@ The module is used in the author's research and will include soon added features
 
 The User Manual is included. Example files 3 to 11 are implementations of the preprint:
 
-Gonçalves C.P. Quantum Stochastic Neural Maps and Quantum Neural Networks. Preprint available as draft paper at https://www.academia.edu/40810532/Quantum_Stochastic_Neural_Maps_and_Quantum_Neural_Networks
+Gonçalves C.P. Quantum Stochastic Neural Maps and Quantum Neural Networks. 2019. Preprint available as draft paper at https://www.academia.edu/40810532/Quantum_Stochastic_Neural_Maps_and_Quantum_Neural_Networks
