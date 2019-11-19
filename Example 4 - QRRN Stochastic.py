@@ -66,8 +66,8 @@ print(Net.local_operators[1])
 
 max_it = 1010000 # maximum number of iterations
 transient=10000 # transient
-seed_base=3 # seed base 3
-step=10 # step for seed generation 10
+seed_base=3 # seed base
+step=10 # step for seed generation
 r=0.99 # base parameter for average
 coupling=0.1 # noise coupling level
 
