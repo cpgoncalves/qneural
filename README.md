@@ -7,6 +7,6 @@ QNeural is a Python Module for the simulation of quantum artificial neural netwo
 
 The module is used in the author's research and will include soon added features and examples for the implementation of QuANNs with cloud access to IBM's Quantum Computers.
 
-The User Manual is included. Example files 3 to 11 are implementations of the preprint:
+The User Manual is included. Example files 3 to 11 are implementations of the article:
 
-Gonçalves C.P. Quantum Stochastic Neural Maps and Quantum Neural Networks. 2019. Preprint available as draft paper at https://www.academia.edu/40810532/Quantum_Stochastic_Neural_Maps_and_Quantum_Neural_Networks
+Gonçalves C.P. Quantum Stochastic Neural Maps and Quantum Neural Networks. 2019. SSRN Scholarly Paper DOI: https://dx.doi.org/10.2139/ssrn.3502121
